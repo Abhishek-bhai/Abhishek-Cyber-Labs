@@ -10,14 +10,14 @@
 
 ## Current Progress
 - [x] Python Basics
-- [ ] OOP
+- [x] OOP
 - [ ] Django
 - [ ] Networking
 
 ## Projects
-- Calculator
-- Guessing Game
-- API Project
+- [x] Calculator
+- [x] Guessing Game
+- [x] API Project
 
 <!--------------------------------------------------
 --------------------------------------------------->
@@ -28,9 +28,9 @@ Complete roadmap for becoming a strong Python Developer focused on Backend Devel
 
 ---
 
-# LEVEL 1 — PYTHON FUNDAMENTALS
+# LEVEL 1 — PYTHON FUNDAMENTALS ✔️✔️✔️
 
-## Basics
+## Basics ✔️
 - Python Installation
 - VS Code Setup
 - print()
@@ -40,7 +40,7 @@ Complete roadmap for becoming a strong Python Developer focused on Backend Devel
 - Type Casting
 - input()
 
-## Operators
+## Operators ✔️
 - Arithmetic Operators
 - Comparison Operators
 - Logical Operators
@@ -48,20 +48,20 @@ Complete roadmap for becoming a strong Python Developer focused on Backend Devel
 - Membership Operators
 - Identity Operators
 
-## Conditional Statements
+## Conditional Statements ✔️
 - if
 - elif
 - else
 - Nested if
 
-## Loops
+## Loops ✔️
 - for loop
 - while loop
 - break
 - continue
 - pass
 
-## Functions
+## Functions ✔️
 - Function Creation
 - Parameters
 - return
@@ -69,25 +69,25 @@ Complete roadmap for becoming a strong Python Developer focused on Backend Devel
 - Keyword Arguments
 - Lambda Basics
 
-## Strings
+## Strings ✔️
 - Indexing
 - Slicing
 - String Methods
 - String Formatting
 - f-Strings
 
-## Lists
+## Lists ✔️
 - List Methods
 - Nested Lists
 - List Comprehension
 
-## Tuples
+## Tuples ✔️
 
-## Sets
+## Sets ✔️
 
-## Dictionaries
+## Dictionaries ✔️
 
-## Practice Programs
+## Practice Programs ✔️
 - Calculator
 - Factorial Program
 - Palindrome Checker
@@ -97,9 +97,9 @@ Complete roadmap for becoming a strong Python Developer focused on Backend Devel
 
 ---
 
-# LEVEL 2 — INTERMEDIATE PYTHON
+# LEVEL 2 — INTERMEDIATE PYTHON 
 
-## Object-Oriented Programming (OOP)
+## Object-Oriented Programming (OOP) ✔️
 - Classes
 - Objects
 - Constructors
