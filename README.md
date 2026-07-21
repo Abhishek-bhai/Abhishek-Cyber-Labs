@@ -1,407 +1,372 @@
-# Python & Django Developer + Ethical Hacker Journey
+# 🚀 Abhishek Cyber Labs
 
-## Skills Learning
-- Python
-- Django
-- APIs
-- Cybersecurity
-- Linux
-- DSA
+> **My Personal Cybersecurity, Python & Linux Learning Repository**
 
-## Current Progress
-- [x] Python Basics
-- [x] OOP
-- [ ] Django
-- [ ] Networking
+Welcome to **Abhishek Cyber Labs** 👋
 
-## Projects
-- [x] Calculator
-- [x] Guessing Game
-- [x] API Project
+This repository documents my complete journey from a beginner to becoming a **Python Developer**, **Backend Developer**, and **Ethical Hacker**.
 
-<!--------------------------------------------------
---------------------------------------------------->
-
-# Python Developer Roadmap (Beginner → Advanced)
-
-Complete roadmap for becoming a strong Python Developer focused on Backend Development, Automation, APIs, Linux, Networking, DSA, and Ethical Hacking.
+Every note, lab, project, practice file, command, and roadmap is organized here as I continue learning and improving my skills.
 
 ---
 
-# LEVEL 1 — PYTHON FUNDAMENTALS ✔️✔️✔️
+# 👨‍💻 About Me
 
-## Basics ✔️
-- Python Installation
-- VS Code Setup
-- print()
-- Comments
-- Variables
-- Data Types
-- Type Casting
-- input()
-
-## Operators ✔️
-- Arithmetic Operators
-- Comparison Operators
-- Logical Operators
-- Assignment Operators
-- Membership Operators
-- Identity Operators
-
-## Conditional Statements ✔️
-- if
-- elif
-- else
-- Nested if
-
-## Loops ✔️
-- for loop
-- while loop
-- break
-- continue
-- pass
-
-## Functions ✔️
-- Function Creation
-- Parameters
-- return
-- Default Arguments
-- Keyword Arguments
-- Lambda Basics
-
-## Strings ✔️
-- Indexing
-- Slicing
-- String Methods
-- String Formatting
-- f-Strings
-
-## Lists ✔️
-- List Methods
-- Nested Lists
-- List Comprehension
-
-## Tuples ✔️
-
-## Sets ✔️
-
-## Dictionaries ✔️
-
-## Practice Programs ✔️
-- Calculator
-- Factorial Program
-- Palindrome Checker
-- Prime Number Checker
-- Pattern Printing
-- Guessing Game
+- **Name:** Abhishek Chouhan
+- 🎓 Diploma in Computer Science Engineering
+- 🇮🇳 India
+- 💻 Python Developer
+- 🛡️ Cybersecurity Enthusiast
+- 🐧 Linux Learner
+- 🌐 Backend Development (Django)
+- 📚 Learning Every Day
 
 ---
 
-# LEVEL 2 — INTERMEDIATE PYTHON 
+# 🎯 Goal
 
-## Object-Oriented Programming (OOP) ✔️
-- Classes
-- Objects
-- Constructors
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
-- Magic Methods
+My goal is to become a
 
-## File Handling
-- Read Files
-- Write Files
-- Append Mode
-- with open()
-- CSV Files
-- JSON Files
-
-## Exception Handling
-- try
-- except
-- finally
-- Custom Exceptions
-
-## Modules & Packages
-- import
-- Creating Modules
-- pip
-- Virtual Environment (venv)
-
-## Advanced Functions
-- Recursion
-- Decorators
-- Generators
-- Iterators
-- map()
-- filter()
-- reduce()
-
-## Data Structures Basics
-- Stack
-- Queue
-- Linked List Basics
-- Hashing
-
-## Important Python Libraries
-- random
-- math
-- os
-- sys
-- datetime
-- collections
-
-## Regular Expressions (Regex)
-- Pattern Matching
-- Validation
-
-## APIs Basics
-- requests Library
-- GET Requests
-- POST Requests
-- JSON Handling
-
-## Git & GitHub
-- git init
-- git add
-- git commit
-- git push
-- Branches
+- Python Backend Developer
+- Ethical Hacker
+- Penetration Tester
+- Security Researcher
+- Red Team Professional
 
 ---
 
-# LEVEL 3 — ADVANCED PYTHON
+# 📌 Learning Roadmap Progress
 
-## Advanced OOP
-- Multiple Inheritance
-- Method Overriding
-- Dunder Methods
-- Property Decorators
+## 🟢 Python Fundamentals
 
-## Multithreading & Multiprocessing
-- Threading
-- Multiprocessing
-- Async Basics
-- Concurrency
+- ✅ Installation
+- ✅ VS Code Setup
+- ✅ Variables
+- ✅ Data Types
+- ✅ Operators
+- ✅ Input & Output
+- ✅ Conditional Statements
+- ✅ Loops
+- ✅ Functions
+- ✅ Strings
+- ✅ Lists
+- ✅ Tuples
+- ✅ Sets
+- ✅ Dictionaries
 
-## Database Handling
-- SQLite
-- MySQL with Python
-- ORM Basics
-
-## Networking in Python
-- Sockets
-- Client/Server Programs
-- Port Scanner Basics
-
-## Automation
-- Web Scraping
-- Selenium
-- Automation Scripts
-
-## Data & Visualization Libraries
-- NumPy
-- Pandas
-- Matplotlib
-
-## Logging
-
-## Testing
-- unittest
-- pytest Basics
-
-## Security Concepts
-- Hashing
-- Encryption Basics
-- Secure Coding
-
-## Performance Optimization
-- Time Complexity
-- Memory Optimization
+Progress:
+████████████████████ 100%
 
 ---
 
-# LEVEL 4 — BACKEND DEVELOPMENT
+## 🟢 Object Oriented Programming
 
-## HTML Basics
-- Forms
-- Tables
-- Semantic Tags
+- ✅ Classes
+- ✅ Objects
+- ✅ Constructors
+- ✅ Inheritance
+- ✅ Polymorphism
+- ✅ Encapsulation
+- ✅ Abstraction
+- ✅ Magic Methods
 
-## CSS Basics
-- Flexbox
-- Grid
-- Responsive Design
-
-## JavaScript Basics
-- DOM
-- Fetch API
-- async/await
+Progress:
+████████████████████ 100%
 
 ---
 
-# DJANGO DEVELOPMENT
+## 🟢 Python Practice Projects
 
-## Django Basics
-- Project Structure
-- Apps
-- URLs
-- Views
-- Templates
+- ✅ Calculator
+- ✅ Guessing Game
+- ✅ Palindrome
+- ✅ Prime Number
+- ✅ Pattern Printing
+- ✅ Factorial
+- ✅ Mini Python Programs
 
-## Database Management
-- Models
-- Migrations
-- Relationships
-
-## Authentication System
-- Login/Signup
-- Permissions
-- JWT Authentication
-
-## Django REST Framework (DRF)
-- Serializers
-- APIs
-- CRUD Operations
-- Authentication
-- Pagination
-- Permissions
-
-## Advanced Backend Concepts
-- Caching
-- Deployment
-- Docker Basics
-- Nginx Basics
-- WebSocket Basics
+Progress:
+████████████████████ 100%
 
 ---
 
-# LEVEL 5 — DATA STRUCTURES & ALGORITHMS (DSA)
+## 🟡 Intermediate Python
 
-## Beginner
-- Arrays
-- Strings
-- Hashing
-- Sorting
+- ✅ File Handling
+- ✅ Exception Handling
+- ✅ Modules
+- ✅ Packages
+- ✅ Virtual Environment
+- ✅ Regular Expressions (Basics)
+- ✅ Git Basics
 
-## Intermediate
-- Linked Lists
-- Stack
-- Queue
-- Recursion
-- Binary Search
-
-## Advanced
-- Trees
-- Graphs
-- Dynamic Programming
-- Heaps
-- Tries
-
-## Practice Platforms
-- LeetCode
-- Codeforces
+Progress:
+██████████████░░░░░░ 70%
 
 ---
 
-# LEVEL 6 — CYBERSECURITY & ETHICAL HACKING
+## 🔵 Advanced Python
 
-## Linux
-- Linux Commands
-- File Permissions
-- Bash Basics
+- ⏳ Decorators
+- ⏳ Generators
+- ⏳ Iterators
+- ⏳ Threading
+- ⏳ Multiprocessing
+- ⏳ Async Programming
+- ⏳ Logging
+- ⏳ Testing
 
-## Networking
-- TCP/IP
-- DNS
-- HTTP/HTTPS
-- Ports
+Progress:
+██████░░░░░░░░░░░░░░ 30%
+
+---
+
+# 🌐 Backend Development
+
+## HTML
+
+- ✅ Basics
+- ✅ Forms
+- ✅ Tables
+
+## CSS
+
+- ✅ Basics
+- ✅ Flexbox
+- ⏳ Grid
+
+## JavaScript
+
+- ✅ Basics
+- ⏳ DOM
+- ⏳ Fetch API
+- ⏳ Async Await
+
+Progress:
+██████████░░░░░░░░░░ 50%
+
+---
+
+# 🐍 Django
+
+- ⏳ Django Installation
+- ⏳ Project Structure
+- ⏳ Apps
+- ⏳ Models
+- ⏳ Views
+- ⏳ URLs
+- ⏳ Templates
+- ⏳ Authentication
+- ⏳ REST API
+- ⏳ Deployment
+
+Progress:
+░░░░░░░░░░░░░░░░░░░░ 0%
+
+---
+
+# 💾 Database
+
+- ✅ SQLite
+- ⏳ MySQL
+- ⏳ PostgreSQL
+
+---
+
+# ⚙ Git & GitHub
+
+- ✅ Git Init
+- ✅ Git Clone
+- ✅ Git Add
+- ✅ Git Commit
+- ✅ Git Push
+- ✅ Git Pull
+- ✅ Git Branch
+- ✅ Git Merge
+- ✅ GitHub Repository
+
+Progress:
+██████████████████░░ 90%
+
+---
+
+# 🐧 Linux
+
+## Basics
+
+- ✅ Linux Installation
+- ✅ Terminal
+- ✅ File Commands
+- ✅ Directory Commands
+- ✅ Permissions
+- ✅ Users
+- ✅ Process Commands
+- ✅ Package Management
+- ✅ Networking Commands
+- ✅ Bash Basics
+
+Progress:
+████████████████░░░░ 80%
+
+---
+
+# 📡 Networking
+
+- ✅ OSI Model
+- ✅ TCP/IP
+- ✅ HTTP
+- ✅ HTTPS
+- ✅ DNS
+- ✅ Ports
+- ✅ IP Address
+- ⏳ Routing
+- ⏳ Switching
+
+Progress:
+████████████░░░░░░░░ 60%
+
+---
+
+# 🛡 Cybersecurity
+
+## Basics
+
+- ✅ Linux
+- ✅ Networking
+- ✅ Virtual Machines
+- ✅ Kali Linux
+- ✅ Nmap
+- ✅ Burp Suite (Basics)
+- ✅ Wireshark (Basics)
+- ✅ GitHub Notes
+- ✅ Cyber Lab Setup
+
+Progress:
+██████████░░░░░░░░░░ 50%
+
+---
 
 ## Web Security
-- OWASP Top 10
-- SQL Injection (SQLi)
-- Cross-Site Scripting (XSS)
-- Authentication Flaws
 
-## Python for Cybersecurity
-- Automation Scripts
-- Scanners
-- requests Library
-- sockets
-
-## Practice Platforms
-- TryHackMe
-- Hack The Box
+- ⏳ OWASP Top 10
+- ⏳ SQL Injection
+- ⏳ XSS
+- ⏳ CSRF
+- ⏳ Authentication
 
 ---
 
-# MOST IMPORTANT TOPICS
+## Tools
 
-These topics are extremely important and should never be skipped:
+### Completed
 
-- Functions
-- OOP
-- File Handling
-- Exception Handling
-- APIs
-- Git & GitHub
-- Django REST Framework
-- SQL
+- ✅ Nmap
+- ✅ Git
+- ✅ GitHub
+- ✅ Linux Terminal
+- ✅ Bash Basics
+
+### Learning
+
+- ⏳ Burp Suite
+- ⏳ SQLMap
+- ⏳ Hydra
+- ⏳ Metasploit
+- ⏳ John The Ripper
+- ⏳ Hashcat
+- ⏳ Gobuster
+- ⏳ FFUF
+- ⏳ Nikto
+- ⏳ Bettercap
+
+---
+
+# 🏆 Platforms
+
+- ✅ LeetCode
+- ✅ GitHub
+- ✅ Kali Linux
+- ⏳ TryHackMe
+- ⏳ Hack The Box
+- ⏳ PortSwigger Academy
+
+---
+
+# 📂 Repository Structure
+
+```
+Abhishek-Cyber-Labs/
+
+├── Linux/
+├── Bash/
+├── Python/
+├── Networking/
+├── Web/
+├── Android/
+├── Tools/
+├── Labs/
+├── Scripts/
+├── Reports/
+├── Notes/
+└── README.md
+```
+
+---
+
+# 📈 Current Overall Progress
+
+| Category | Progress |
+|----------|----------|
+| Python | ✅ 80% |
+| OOP | ✅ 100% |
+| Git | ✅ 90% |
+| Linux | ✅ 80% |
+| Networking | ✅ 60% |
+| Django | ⏳ 0% |
+| Backend | ⏳ 50% |
+| DSA | ⏳ 30% |
+| Cybersecurity | ⏳ 50% |
+
+---
+
+# 🎯 Current Focus
+
+- DSA
 - Linux
+- Bash
 - Networking
-- DSA Basics
+- Django
+- REST API
+- Ethical Hacking
+- Bug Bounty
 
 ---
 
-# TOPICS TO LEARN LATER
+# 📅 Repository Status
 
-These topics can be learned later after becoming comfortable with core development:
+🟢 Actively Maintained
 
-- NumPy
-- Pandas
-- Matplotlib
-- Machine Learning
-- Advanced Async Programming
-- Data Science
+This repository is updated regularly as I continue learning and practicing cybersecurity, programming, Linux, networking, and backend development.
 
 ---
 
-# BEST LEARNING ORDER
+# ⭐ Future Goals
 
-## Step 1
-Python Fundamentals
-
-## Step 2
-OOP + File Handling + Exception Handling
-
-## Step 3
-DSA Basics
-
-## Step 4
-Git & GitHub
-
-## Step 5
-HTML + CSS + JavaScript Basics
-
-## Step 6
-Django + REST API Development
-
-## Step 7
-Linux + Networking
-
-## Step 8
-Cybersecurity & Ethical Hacking
+- ✅ Python Mastery
+- ⏳ Django Expert
+- ⏳ REST API Expert
+- ⏳ Linux Expert
+- ⏳ CCNA Level Networking
+- ⏳ eJPT
+- ⏳ PNPT
+- ⏳ OSCP
+- ⏳ Bug Bounty Hunter
+- ⏳ Red Team Operator
 
 ---
 
-# FINAL GOAL
+## ⭐ Thank You
 
-After completing this roadmap, you will be prepared for:
+If you like this repository, feel free to ⭐ star it.
 
-- Backend Developer Internships
-- Python Developer Roles
-- API Development
-- Freelancing Projects
-- Automation Scripting
-- Beginner Cybersecurity Roles
+Happy Learning ❤️
