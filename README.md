@@ -149,19 +149,19 @@ Progress:
 
 # 🐍 Django
 
-- ⏳ Django Installation
-- ⏳ Project Structure
-- ⏳ Apps
-- ⏳ Models
-- ⏳ Views
-- ⏳ URLs
-- ⏳ Templates
+- ✅ Django Installation
+- ✅ Project Structure
+- ✅ Apps
+- ✅ Models
+- ✅ Views
+- ✅ URLs
+- ✅ Templates
 - ⏳ Authentication
 - ⏳ REST API
 - ⏳ Deployment
 
 Progress:
-░░░░░░░░░░░░░░░░░░░░ 0%
+██████████████░░░░░░ 70%
 
 ---
 
@@ -260,11 +260,13 @@ Progress:
 
 ### Completed
 
-- ✅ Nmap
 - ✅ Git
 - ✅ GitHub
 - ✅ Linux Terminal
 - ✅ Bash Basics
+- ✅ Nmap
+- ✅ Dirbuster
+- ✅ Crunch
 
 ### Learning
 
