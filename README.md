@@ -324,7 +324,7 @@ Abhishek-Cyber-Labs/
 | Git | ✅ 90% |
 | Linux | ✅ 80% |
 | Networking | ✅ 60% |
-| Django | ⏳ 0% |
+| Django |  ✅ 70% |
 | Backend | ⏳ 50% |
 | DSA | ⏳ 30% |
 | Cybersecurity | ⏳ 50% |
