@@ -1,0 +1,32 @@
+Hound - Information Gathering Report
+------------------------------------
+
+Device Information
+----------------------------
+User Agent: Mozilla/5.0 (Linux; Android 10; V2027) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36 VivoBrowser/15.1.0.3 
+Platform: Linux aarch64 
+Cookies Enabled: true
+Browser Language: en-US
+Browser Name: Netscape
+Browser CodeName: Mozilla
+RAM: 2
+CPU Cores: 8
+Screen Width: 360
+Screen Height: 800
+Local Time: 7:15:15 PM
+RefUrl: 
+OS CPU: undefined
+-------------------------
+
+Target IP Detail
+----------------
+IP: 157.34.72.114
+---------------
+
+GPS Lat Long Information
+-----------------------
+Latitude: 22.2060483
+Longitude: 75.8466774
+Map Location:  https://www.google.com/maps/place/22.2060483,75.8466774
+Google Earth:  https://earth.google.com/web/search/22.2060483,75.8466774
+------------------
